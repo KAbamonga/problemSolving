@@ -8,7 +8,7 @@ import SwiftUI
 struct textCutoff: View {
   var body: some View {
     VStack() {
-      Text("JULY")
+      Text("JUNE")
         .font(.largeTitle)
         .foregroundColor(Color.white)
         .padding()
